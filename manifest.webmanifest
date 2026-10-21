@@ -1,0 +1,11 @@
+{
+  "name": "OYSTER Private Messenger",
+  "short_name": "OYSTER",
+  "description": "A quieter kind of connection.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06130f",
+  "theme_color": "#071a14",
+  "icons": [{"src":"./assets/oyster.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
